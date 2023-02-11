@@ -1,0 +1,76 @@
+body{
+  background-image: url("zen.jpg");
+  background-repeat: no-repeat;
+}
+.Zen-header{
+  text-align: center;
+  text-decoration: underline;
+}
+h1, h2, h3, h4{
+  color: #7d775c;
+}
+.content{
+  color:black;
+  margin-left: 110px;
+  width: 600px;
+  /* float: left; */
+  margin-right: 0px;
+
+}
+.upperDiv{
+  margin-right: 0px;
+  display: inline;
+  float: left;
+  width: 450px;
+
+}
+.demonstration{
+  display:inline;
+  float:left;
+  width: 160px;
+  font-style: italic;
+  padding: 10px;
+}
+
+
+.road-to-enlightment{
+  /* display: inline; */
+  width: 490px;
+}
+/* .inside-span{
+  width: 460px;
+  
+} */
+.aboutDiv{
+  display: inline;
+  float: left;
+  width: 500px;
+}
+.left-list{
+  display:inline;
+  background-color: #ddddbb;
+  width: 9em;
+  margin-top: 80px;
+  margin-right: 0px;
+  padding: 8px;
+  margin-left: 0px;
+  position: absolute;
+  top: 7%;
+  right: 36%;
+
+}
+.below-list{
+  width: 650px;
+}
+.select{
+  text-decoration: underline;
+  text-align: center;
+}
+.participation{
+  display: inline;
+  float: left;
+}
+.lowerDiv{
+  display: inline;
+  float: left;
+}
